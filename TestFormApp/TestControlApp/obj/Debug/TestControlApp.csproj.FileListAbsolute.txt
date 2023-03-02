@@ -1,8 +1,0 @@
-C:\Users\ACER\Documents\Projects\TestFormApp\TestControlApp\bin\Debug\TestControlApp.dll
-C:\Users\ACER\Documents\Projects\TestFormApp\TestControlApp\bin\Debug\TestControlApp.pdb
-C:\Users\ACER\Documents\Projects\TestFormApp\TestControlApp\obj\Debug\TestControlApp.csproj.AssemblyReference.cache
-C:\Users\ACER\Documents\Projects\TestFormApp\TestControlApp\obj\Debug\TestControlApp.csproj.GenerateResource.cache
-C:\Users\ACER\Documents\Projects\TestFormApp\TestControlApp\obj\Debug\TestControlApp.csproj.CoreCompileInputs.cache
-C:\Users\ACER\Documents\Projects\TestFormApp\TestControlApp\obj\Debug\TestControlApp.dll
-C:\Users\ACER\Documents\Projects\TestFormApp\TestControlApp\obj\Debug\TestControlApp.pdb
-C:\Users\ACER\Documents\Projects\TestFormApp\TestControlApp\obj\Debug\TestControlApp.WorkSheet.resources
